@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1338
     wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15934#His-Excellency-the-Minister
 gutenberg_issued: '2005-05-29'
 gutenberg_type: Text
 identifiers:
